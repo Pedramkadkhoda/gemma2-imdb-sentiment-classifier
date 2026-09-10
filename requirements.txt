@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+rouge_score
+loralib
+bitsandbytes
+scikit-learn
+peft
